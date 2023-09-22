@@ -1,0 +1,12 @@
+ CREATE TABLE IF NOT EXISTS t_member(
+ c_id INT KEY AUTO_INCREMENT,
+ c_name CHAR(100),
+ c_stu_id INT,
+ c_post CHAR(100),
+ c_college CHAR(100),
+ c_grade INT
+ );
+ 
+
+
+ 
